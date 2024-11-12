@@ -1,5 +1,5 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Book Bazaar
+BookBazaar Mobile App.
 
 # Features
 * Share Projects
