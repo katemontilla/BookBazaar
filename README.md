@@ -2,10 +2,10 @@
 BookBazaar Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Search Bar: A prominent search bar at the top of the app's interface allows users to quickly enter keywords and find relevant books.
+* Personalized Recommendations: The app can suggest books based on users' past behavior, such as books they have viewed, purchased, or rated.
+* Wishlist and Cart Functionality: Users can save books to a wishlist for future reference and add them to a cart for purchase.
+* Users can explore books by category 
 
 # Course Overview
 * Basic React Native Components
